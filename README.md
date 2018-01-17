@@ -1,1 +1,1 @@
-# josso-corrupt-jar
+# https://github.com/atricore/josso1/issues/13
